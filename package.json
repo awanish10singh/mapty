@@ -1,0 +1,11 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "app to users track their excercises",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Awanish Singh",
+  "license": "ISC"
+}
